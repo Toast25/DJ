@@ -1,0 +1,29 @@
+#disks{
+height: 200px;
+width:  200px;
+}
+h1,span,h4,div,h1{
+    color:white;
+}
+#disk1{
+    float: left;
+}
+#disk2{
+    float: right;
+}
+#play{
+    height:45px;
+    width: 100px;
+    font-size:25px;
+}
+#volume, #speed{
+    font-size:30px;
+}
+#ID{
+    font-size:20px;
+}
+canvas{
+    margin-top:200px;
+    box-shadow: 5px 5px 40px gray;
+    
+}
